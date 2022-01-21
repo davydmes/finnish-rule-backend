@@ -21,7 +21,7 @@
     "express-rate-limit": "^2.14.2",
     "express-session": "^1.14.2",
     "jsonwebtoken": "^8.2.1",
-    "log4js": "^2.0.0",
+    "log4js": "^6.4.0",
     "moment": "^2.24.0",
     "mongoose": "^4.8.1",
     "morgan": "~1.7.0",

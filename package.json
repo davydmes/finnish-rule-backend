@@ -9,7 +9,7 @@
     "nmilocal": "nodemon -r dotenv/config --inspect index.js"
   },
   "dependencies": {
-    "async": "^2.6.1",
+    "async": "^3.2.2",
     "body-parser": "~1.15.2",
     "celebrate": "^8.0.2",
     "connect-mongo": "^1.3.2",
